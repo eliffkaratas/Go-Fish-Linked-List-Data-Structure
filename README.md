@@ -1,4 +1,4 @@
-# Go-Fish
+# Go-Fish Game
 Linked-list data structure in Java
 
 The game is played with 24-card deck (4 times numbered from 1 to 6). 
